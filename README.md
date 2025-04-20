@@ -18,16 +18,16 @@ StackStories is a dynamic and responsive full-stack blogging application built u
 
 **Frontend:**
 - React.js
+- HTML 5
 - CSS 3
+- JavaScript
 - React Router
-- Markdown Editor
 
 **Backend:**
 - Node.js
 - Express.js
 - MongoDB & Mongoose
 - JWT for Authentication
-
 ---
 
 ## 🧑‍💻 Getting Started
