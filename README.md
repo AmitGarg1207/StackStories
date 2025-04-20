@@ -7,11 +7,9 @@ StackStories is a dynamic and responsive full-stack blogging application built u
 ## 🚀 Features
 
 - 🔐 **User Authentication:** Secure sign-up and login using JWT.
-- ✍️ **Create/Edit/Delete Blogs:** Write rich blog posts using a Markdown editor.
+- ✍️ **Create/Edit/Update Blogs:** Write rich blog posts using a Markdown editor.
 - 🗾️ **View Blog Posts:** Browse through all user blogs or filter by specific users.
-- 💬 **Comment System:** Engage with content through comments (basic feature).
-- 🎨 **Responsive UI:** Built with Tailwind CSS for mobile-friendly performance.
-- 🌗 **Dark Mode Support:** Toggle between light and dark themes.
+- 🎨 **Responsive UI:** Built with CSS 3 for mobile-friendly performance.
 - 📦 **RESTful APIs:** Clean and scalable backend design.
 
 ---
@@ -38,12 +36,13 @@ StackStories is a dynamic and responsive full-stack blogging application built u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AmitGarg1207/stackstories.git
+   git clone
+   https://github.com/AmitGarg1207/StackStories.git
    ```
 
 2. **Navigate to the project:**
    ```bash
-   cd stackstories
+   cd StackStories
    ```
 
 ---
@@ -69,7 +68,7 @@ npm start
 ## 📁 Folder Structure
 
 ```
-stackstories/
+StackStories/
 |
 ├── api/              # Express backend
 │   ├── routes/       # API routes
